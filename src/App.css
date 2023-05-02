@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.main-heading {
+  color:goldenrod;
+  text-align: center;
+}
+
+.films {
+  text-align: center;
+}
+
+.upcoming {
+  text-align: center;
+
+}
+
+.upcoming > input {
+  text-align: center;
+  color: chartreuse;
+  background-color:coral;
+  border-radius: 1em 3em;
+  
+}
